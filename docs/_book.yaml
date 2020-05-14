@@ -41,6 +41,10 @@ upper_tabs:
       - title: Add huge datasets (Apache Beam)
         path: /datasets/beam_datasets
 
+      - heading: "Feedback"
+      - title: Feedback
+        path: /datasets/feedback
+
     - name: API
       skip_translation: true
       contents:
